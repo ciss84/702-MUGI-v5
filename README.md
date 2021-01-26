@@ -1,1 +1,1 @@
-# 702MUGI
+# 702MUGI beta 1.0
